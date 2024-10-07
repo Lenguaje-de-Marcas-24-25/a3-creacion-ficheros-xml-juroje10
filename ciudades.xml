@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ciudades>
+    <ciudad continente="Europa">
+        <nombre>Madrid</nombre>
+        <pais>España</pais>
+        <poblacion>3.223.000</poblacion>
+    </ciudad>
+    <ciudad continente="Asia">
+        <nombre>Tokio</nombre>
+        <pais>Japón</pais>
+        <poblacion>37.400.000</poblacion>
+    </ciudad>
+    <ciudad continente="América">
+        <nombre>Buenos Aires</nombre>
+        <pais>Argentina</pais>
+        <poblacion>15.153.729</poblacion>
+    </ciudad>
+</ciudades>
