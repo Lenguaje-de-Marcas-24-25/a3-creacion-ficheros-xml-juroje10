@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE library PUBLIC "-//DTD Library//EN" "path/of/library.dtd">
-<library>
-    <shelf id="fiction">
-        <book>
-            <title>Of Mice and Men</title>
-            <author>John Steinbeck</author>
-        </book>
-    </shelf>
-</library>
+<!DOCTYPE biblioteca PUBLIC "-//DTD Biblioteca//ES" "ruta/de/biblioteca.dtd">
+
+<biblioteca>
+    <estante id="ficcion">
+        <libro>
+            <titulo>De ratones y hombres</titulo>
+            <autor>John Steinbeck</autor>
+        </libro>
+    </estante>
+</biblioteca>
